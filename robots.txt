@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://flowerof001.github.io/12306-replica/sitemap.xml
